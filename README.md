@@ -3,6 +3,7 @@
 This is a Github repo for optional accessories available for ToqueCANs. Check the readme file for each project for more details about them.
 
 - [ToqueCAN Pi 4 USB C PCB](./Pi-4-USB)
+- [ToqueCAN USB C Cable Adpater PCB](./180-Deg-USB-C)
 
 ## YouTube
 
